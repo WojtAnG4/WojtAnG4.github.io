@@ -1,2 +1,6 @@
 html {
   background: url('bg.jpg');
+
+.prawa-strona {
+  float: right;
+}
